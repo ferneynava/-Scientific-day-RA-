@@ -686,7 +686,7 @@ PlayerSettings:
   ps4attribVROutputEnabled: 0
   monoEnv: 
   splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: 1faefc7b1a415c94dbb6f82797296325, type: 3}
-  splashScreenBackgroundSourcePortrait: {fileID: 21300000, guid: 14f21c0e441eca94e891c54e0fabcafe, type: 3}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
   blurSplashScreenBackground: 1
   spritePackerPolicy: 
   webGLMemorySize: 16
