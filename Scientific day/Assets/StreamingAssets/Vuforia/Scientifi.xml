@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="venus" size="500.000000 500.000000" />
+    <ImageTarget name="neptuno" size="500.000000 307.517090" />
     <ImageTarget name="Saturno" size="500.000000 479.381439" />
     <ImageTarget name="Jupiter" size="500.000000 281.250000" />
     <ImageTarget name="Marte" size="500.000000 346.093750" />
