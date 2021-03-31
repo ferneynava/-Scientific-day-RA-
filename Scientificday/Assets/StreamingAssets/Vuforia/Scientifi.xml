@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Urano" size="500.000000 307.517090" />
     <ImageTarget name="Mercurio" size="500.000000 307.517090" />
     <ImageTarget name="venus" size="500.000000 500.000000" />
     <ImageTarget name="neptuno" size="500.000000 307.517090" />
