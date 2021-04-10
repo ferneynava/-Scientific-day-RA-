@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="fd1d0f2b-eb78-44ca-80ca-2e8da757f661" size="500.000000 333.333344" />
     <ImageTarget name="Celula-Humana" size="500.000000 362.002563" />
     <ImageTarget name="Dragon" size="500.000000 500.000000" />
     <ImageTarget name="Esqueleto" size="500.000000 280.916016" />
