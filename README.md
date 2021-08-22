@@ -1,5 +1,5 @@
 # Scientific-day-RA 🚀🚀🚀👦
-Realidad Aumentada - Scientific day
+Realidad Aumentada - Scientific day🚀🚀🚀👦
 
 Docente Ferney Alexander Nava Trujillo 
 
