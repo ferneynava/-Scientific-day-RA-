@@ -1,6 +1,8 @@
 # Scientific-day-RA
 Realidad Aumentada - Scientific day
 
+Docente Ferney Alexander Nava Trujillo 
+
 ![1623005827492](https://user-images.githubusercontent.com/43612075/130359319-6e56ba81-6ee7-4a95-85e4-b751cf83bc36.jpg)
 ![1623006069557](https://user-images.githubusercontent.com/43612075/130359386-e87ea5a7-6f35-406c-9a7b-45052a540f35.jpg)
 ![1623005896379](https://user-images.githubusercontent.com/43612075/130359394-5660f9cc-215e-4735-bbc2-fe77c245f1dd.jpg)
